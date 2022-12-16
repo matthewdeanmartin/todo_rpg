@@ -1,4 +1,11 @@
+"""
+how many days do you need to do things every day to form a habit?
+
+a habit, but this can range from 18 to 254 days. Some research has even suggested that it can take up to 8 months to form a habit.
+"""
+
 import random
+
 
 # Set up player stats
 player_name = input("Enter your player name: ")
